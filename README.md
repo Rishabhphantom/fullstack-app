@@ -1,2 +1,2 @@
 # fullstack-app
-This repo consist of both frontend and backend of the app
+This repo consist of both frontend and backend of the docker app 
